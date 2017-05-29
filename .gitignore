@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+*.so
+.env/*
+.idea/*
+cs231n/datasets/*
+cs231n/build/*
